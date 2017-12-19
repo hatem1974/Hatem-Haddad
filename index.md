@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## Hatem Haddad 
 
-You can use the [editor on GitHub](https://github.com/hatem1974/Hatem-Haddad/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Assistant Professor
+Department of Computer & Decision Engineering  (CoDE) CP 165/15
+Universite Libre de Bruxelles
+Avenue F. D. Roosevelt 50
+B-1050 Brussels, Belgium
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+General Research Areas:
+Information Retrieval
+Data Mining
+Natural languages Processing
+Data Mining
+Social Networks
+Recommender Systems
 
 ### Markdown
 
