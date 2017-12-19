@@ -1,19 +1,24 @@
 ## Hatem Haddad 
-
 Assistant Professor
+
 Department of Computer & Decision Engineering  (CoDE) CP 165/15
 Universite Libre de Bruxelles
 Avenue F. D. Roosevelt 50
 B-1050 Brussels, Belgium
 
 
-General Research Areas:
+# General Research Areas:
 Information Retrieval
+
 Data Mining
+
 Natural languages Processing
 Data Mining
+
 Social Networks
+
 Recommender Systems
+
 
 ### Markdown
 
